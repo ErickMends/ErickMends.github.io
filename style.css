@@ -1,0 +1,47 @@
+#TI {
+
+    font-family: 'Orbitron', sans-serif;
+
+    position: relative;
+
+    left: 130px;
+    top: 9px;
+
+}
+
+#IM {
+
+
+
+    position: relative;
+    bottom: 80px;
+    left: 20px;
+
+}
+
+.menu {
+
+    font-family: 'Questrial', sans-serif;
+    text-align: right;
+
+    position:relative;
+    bottom:28px;
+    right: 29px;
+    text-decoration:none;
+    font-weight: bold;
+
+
+
+
+}
+
+#TP2 {
+
+    font-family: 'Questrial', sans-serif;
+    text-align: right;
+
+    position:relative;
+    bottom:195px;
+    right: 620px;
+
+}
